@@ -5,11 +5,13 @@
 * Командный курсовой проект [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/VK_team_project)
 * Дипломный проект [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/python-final-diplom_nick/tree/nikolay)
 #### также ознакомтесь с работами по темам:
-* Django [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/DJANGO_1)
+* Django [репозиторий с работами](https://github.com/Nikolay-Zavrazhnov/DJANGO_1)
 * Базы Данных:
   > Работа с PostgreSQL из Python [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/task_5_database)
   > 
   > Python и БД. ORM [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/Task_6_database)
+* Aiohttp [просмотреть репозиторий](https://github.com/Nikolay-Zavrazhnov/Aiohttp)
+* Asyncio [просмотреть репозиторий](https://github.com/Nikolay-Zavrazhnov/Swapi_asycio)
 <!--
 **Nikolay-Zavrazhnov/Nikolay-Zavrazhnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
