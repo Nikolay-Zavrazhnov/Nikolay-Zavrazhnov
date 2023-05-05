@@ -7,7 +7,7 @@
 #### также ознакомтесь с работами по темам:
 * Django [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/DJANGO_1)
 * Базы Данных:
-  >> Работа с PostgreSQL из Python [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/task_5_database)
+   -Работа с PostgreSQL из Python [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/task_5_database)
 <!--
 **Nikolay-Zavrazhnov/Nikolay-Zavrazhnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
