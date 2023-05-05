@@ -1,4 +1,5 @@
-### Hi there 👋
+### Привет! 
+Я Николай Завражнов - разработчик на языке Python
 
 <!--
 **Nikolay-Zavrazhnov/Nikolay-Zavrazhnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
