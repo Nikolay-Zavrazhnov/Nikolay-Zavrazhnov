@@ -4,8 +4,9 @@
 * Курсовой проект "резервное копирование" [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/course_project_1)
 * Командный курсовой проект [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/VK_team_project)
 * Дипломный проект [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/python-final-diplom_nick/tree/nikolay)
-## репозитории с другими работами
-
+#### также ознакомтесь с работами по темам
+* Django [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/DJANGO_1)
+* 
 <!--
 **Nikolay-Zavrazhnov/Nikolay-Zavrazhnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
