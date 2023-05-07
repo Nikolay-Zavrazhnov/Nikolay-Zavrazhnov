@@ -12,6 +12,9 @@
   > Python и БД. ORM [репозиторий с работой](https://github.com/Nikolay-Zavrazhnov/Task_6_database)
 * Aiohttp [просмотреть репозиторий](https://github.com/Nikolay-Zavrazhnov/Aiohttp)
 * Asyncio [просмотреть репозиторий](https://github.com/Nikolay-Zavrazhnov/Swapi_asycio)
+
+### Сертификаты о прохождении обучения в Нетологии
+[ссылка на документы](https://github.com/Nikolay-Zavrazhnov/certificate_from_netology.git)
 <!--
 **Nikolay-Zavrazhnov/Nikolay-Zavrazhnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
